@@ -1,0 +1,12 @@
+Sequência
+Listas armazenam multiplos objetivos em uma única variável
+Cada objetivo tem um índice que indica sua posição dentro da lista 
+o indíce o referese ao primeiro elemento de uma lista 
+__________________________________________________________________________________________
+A função Tem () informa a quantidade de objetos em uma lista 
+A função List() altera o tipo  de um objetivo para List e também oara criar uma nova lista
+A sintaxe para acessar um objetivo é varíavel [índice]
+O primeiro objeto da lista tem sempre valor de índice 0.
+#print(minhaLista[:4]) # Imprise [´'Taiba', 'Iguape', 'Pecém', Cuabaco'] (4-1)
+#print(minhaLista[2:]) # Imprime ['Pecém', 'Cumbuco', 'Lagoinha', Hitupitá', 'Paracuru', 'Mundaú']
+A estrutura "in" é utilizada para checar se um determinado objeto
